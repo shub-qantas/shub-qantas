@@ -1,4 +1,4 @@
-> Note: don't forget to have a look at the 'Leaderboard of Legends' below 👀
+> Note: don't forget to have a look at the 'Leaderboard of the Last Legends' below 👀
 
 # Fly high HooRoo! 2012 - 2026
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🏆 Leaderboard of Legends
+## 🏆 Leaderboard of the Last Legends
 
 > People who shaped this team and moved on to bigger things (the below is in no particular order)
 
