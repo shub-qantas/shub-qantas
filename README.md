@@ -1,3 +1,5 @@
+> Note: don't forget to have a look at the 'Leaderboard of Legends' below 👀
+
 # Fly high HooRoo! 2012 - 2026
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/000fd340-25d3-4f64-a69a-507417d5dd8d" />
@@ -19,3 +21,4 @@
 | Jerry Yip | Software Engineer | 2025–2026 | N/K |
 | Michiel Van Oosten | Software Engineer | 2025–2026 | N/K |
 | Katherine Le | Business Analyst | 2024–2026 | BA @ Qantas - Mobile Application |
+| Pierpaolo Lo Voi | Product Manager | 2024–2025 | BA @ Qantas - Insurance |
