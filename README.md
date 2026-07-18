@@ -12,10 +12,9 @@
 
 | Name | Role | Era | Where They Went |
 |------|------|-----|-----------------|
-| Harrison Hollingsworth | Software Engineer | 2024–2025 | ? |
+| Harrison Hollingsworth | Software Engineer | 2024–2025 | BE SWE @ Qantas |
 | Olivia Pistolese | Software Engineer | 2024–2025 | Product Analyst @ Qantas |
 | Sumaiya Haque | Junior Business Analyst | 2025–2025 | Principal Analyst @ Qantas |
-| Timothy Wang | Software Engineer | 2025–2026 | ? |
-| Jerry Yip | Software Engineer | 2025–2026 | ? |
-| Katherine Le | Business Analyst | 2024–2026 | Business Analyst @ Qantas |
+| Timothy Wang | Software Engineer | 2025–2026 | ... |
+| Jerry Yip | Software Engineer | 2025–2026 | FE SWE @ V2 AI |
 | Pierpaolo Lo Voi | Product Manager | 2024–2025 | Business Analyst @ Qantas |
